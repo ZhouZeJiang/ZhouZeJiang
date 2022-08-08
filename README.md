@@ -9,6 +9,7 @@ src="https://img.shields.io/badge/-github-black?logo=github">
 </div>
 </span>
 
-<span> <div align=center>![](https://img.shields.io/badge/LeetCode-Click-orange?link=https://leetcode.cn/zhou-ze-jiang)
+<span> <div align=center>
+ [![](https://img.shields.io/badge/LeetCode-Click-orange.svg)]({https://leetcode.cn/zhou-ze-jiang})
 </div>
 </span>
