@@ -9,6 +9,6 @@ src="https://img.shields.io/badge/-github-black?logo=github">
 </div>
 </span>
 
-<span> <div align=center><img src="https://img.shields.io/badge/LeetCode-Click-orange?link=https://leetcode.cn/u/zhou-ze-jiang">
+<span> <div align=center><img src="https://img.shields.io/badge/LeetCode-Click-orange?url=https://leetcode.cn/u/zhou-ze-jiang">
  </div>
 </span>
